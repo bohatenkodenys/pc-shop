@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "AMD Ryzen 5 7600",
+    "category": "Процесори",
+    "price": 7999,
+    "image": "img/ryzen-5-7600.svg",
+    "description": "6 ядер / 12 потоків, до 5.1 ГГц, AM5"
+  },
+  {
+    "id": 2,
+    "name": "Intel Core i5-14400F",
+    "category": "Процесори",
+    "price": 6799,
+    "image": "img/core-i5-14400f.svg",
+    "description": "10 ядер / 16 потоків, до 4.7 ГГц, LGA1700"
+  },
+  {
+    "id": 3,
+    "name": "AMD Ryzen 7 7800X3D",
+    "category": "Процесори",
+    "price": 15499,
+    "image": "img/ryzen-7-7800x3d.svg",
+    "description": "8 ядер / 16 потоків, 96 МБ кешу L3, AM5"
+  },
+  {
+    "id": 4,
+    "name": "GeForce RTX 4060 8GB",
+    "category": "Відеокарти",
+    "price": 13999,
+    "image": "img/rtx-4060.svg",
+    "description": "8 ГБ GDDR6, DLSS 3, 2 вентилятори"
+  },
+  {
+    "id": 5,
+    "name": "Radeon RX 7800 XT 16GB",
+    "category": "Відеокарти",
+    "price": 21499,
+    "image": "img/rx-7800-xt.svg",
+    "description": "16 ГБ GDDR6, 256-біт, 3 вентилятори"
+  },
+  {
+    "id": 6,
+    "name": "Kingston Fury Beast DDR5 32GB",
+    "category": "Оперативна пам'ять",
+    "price": 4299,
+    "image": "img/fury-ddr5-32.svg",
+    "description": "2 × 16 ГБ, 6000 МГц, CL36"
+  },
+  {
+    "id": 7,
+    "name": "Corsair Vengeance DDR4 16GB",
+    "category": "Оперативна пам'ять",
+    "price": 1799,
+    "image": "img/vengeance-ddr4-16.svg",
+    "description": "2 × 8 ГБ, 3200 МГц, CL16"
+  },
+  {
+    "id": 8,
+    "name": "Samsung 990 EVO 1TB",
+    "category": "Накопичувачі",
+    "price": 3599,
+    "image": "img/samsung-990-evo.svg",
+    "description": "M.2 NVMe, читання до 5000 МБ/с"
+  },
+  {
+    "id": 9,
+    "name": "WD Blue 2TB",
+    "category": "Накопичувачі",
+    "price": 2499,
+    "image": "img/wd-blue-2tb.svg",
+    "description": "HDD 3.5\", 7200 об/хв, 256 МБ кешу"
+  },
+  {
+    "id": 10,
+    "name": "MSI B650 Tomahawk WiFi",
+    "category": "Материнські плати",
+    "price": 9299,
+    "image": "img/b650-tomahawk.svg",
+    "description": "AM5, ATX, DDR5, Wi-Fi 6E, 2 × M.2"
+  },
+  {
+    "id": 11,
+    "name": "be quiet! Pure Power 12 750W",
+    "category": "Блоки живлення",
+    "price": 4199,
+    "image": "img/pure-power-750.svg",
+    "description": "750 Вт, 80 PLUS Gold, ATX 3.0"
+  },
+  {
+    "id": 12,
+    "name": "DeepCool AK620",
+    "category": "Охолодження",
+    "price": 2399,
+    "image": "img/deepcool-ak620.svg",
+    "description": "Баштовий кулер, 2 × 120 мм, TDP 260 Вт"
+  }
+]

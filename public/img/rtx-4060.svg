@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img">
+  <rect width="320" height="240" fill="#eef7e6"/>
+  <rect x="34" y="62" width="252" height="110" rx="12" fill="#2b3038"/>
+  <rect x="34" y="62" width="252" height="10" rx="5" fill="#76b900"/>
+  <rect x="62" y="172" width="150" height="14" fill="#b8a36a"/>
+  <rect x="22" y="70" width="12" height="96" fill="#9aa0a8"/>
+  <circle cx="124" cy="120" r="38" fill="#1b1f26" stroke="#76b900" stroke-width="3"/>
+  <g fill="#4a5260">
+    <path d="M124 120 q 22.8 -19 7.6000000000000005 -32.3 z"/>
+    <path d="M124 120 q 19 22.8 32.3 7.6000000000000005 z"/>
+    <path d="M124 120 q -22.8 19 -7.6000000000000005 32.3 z"/>
+    <path d="M124 120 q -19 -22.8 -32.3 -7.6000000000000005 z"/>
+  </g>
+  <circle cx="124" cy="120" r="8.36" fill="#76b900"/>
+  <circle cx="214" cy="120" r="38" fill="#1b1f26" stroke="#76b900" stroke-width="3"/>
+  <g fill="#4a5260">
+    <path d="M214 120 q 22.8 -19 7.6000000000000005 -32.3 z"/>
+    <path d="M214 120 q 19 22.8 32.3 7.6000000000000005 z"/>
+    <path d="M214 120 q -22.8 19 -7.6000000000000005 32.3 z"/>
+    <path d="M214 120 q -19 -22.8 -32.3 -7.6000000000000005 z"/>
+  </g>
+  <circle cx="214" cy="120" r="8.36" fill="#76b900"/>
+</svg>

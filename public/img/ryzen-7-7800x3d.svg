@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img">
+  <rect width="320" height="240" fill="#fbeef0"/>
+  <rect x="96" y="38" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="96" y="188" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="114" y="38" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="114" y="188" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="132" y="38" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="132" y="188" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="150" y="38" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="150" y="188" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="168" y="38" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="168" y="188" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="186" y="38" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="186" y="188" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="204" y="38" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="204" y="188" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="222" y="38" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="222" y="188" width="6" height="14" rx="2" fill="#b8a36a"/>
+  <rect x="70" y="50" width="180" height="140" rx="10" fill="#2a3a2c"/>
+  <rect x="92" y="66" width="136" height="108" rx="8" fill="#c9ccd1" stroke="#9aa0a8" stroke-width="3"/>
+  <rect x="92" y="66" width="136" height="20" rx="8" fill="#c0283c"/>
+  <text x="160" y="140" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#2b2f36" text-anchor="middle">RYZEN 7</text>
+</svg>
